@@ -11,19 +11,8 @@ IMPORTANT FILES:
 
 IDCBS.py high-level
 
-epea_star.py (Amy's implement)
-
 EPEIDE.py low-level 
 
-Setup:
-
-Operating System: MacOS Catalina Version 10.15.7
-
-Programming Language: Python 3.8.5
-
-Processor: 2.5 GHz Dual-Core Intel Core i5
-
-Memory: 16 GB 1600 MHz DDR3
 
 
 run tests:
