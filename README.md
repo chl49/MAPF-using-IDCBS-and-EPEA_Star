@@ -1,4 +1,6 @@
-# 417FinalReportMyVersion
+# MAPF-using-IDCBS-and-EPEA_Star
+
+Multi-Agent Path Finding Final Project 
 
 Sample run experiment:
 let the current directory be 'final'
